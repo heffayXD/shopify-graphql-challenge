@@ -5,7 +5,7 @@ Tested using Node v22.11.0
 
 > npm install
 
-2. Copy example.env file and add store values
+2. Copy example.env file, rename to .env, and add store values
 
 3. Run app
 
