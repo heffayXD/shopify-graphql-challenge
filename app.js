@@ -1,6 +1,5 @@
 const { program } = require('commander')
 const { searchProducts } = require('./src/queries')
-require('dotenv').config()
 
 program
   .option('-name <value>')

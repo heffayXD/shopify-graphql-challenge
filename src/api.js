@@ -1,3 +1,5 @@
+require('dotenv').config()
+
 /**
  * 
  * @param {object} body json body to submit with graphql request
